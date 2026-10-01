@@ -1,5 +1,2 @@
 Hello World
 
-git config --global user.name "Avinash"
-git config --global user.email "seoavinash@gmail.com"
-
